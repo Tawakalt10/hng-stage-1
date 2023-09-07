@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    margin: 1rem;
+}
+
+img{
+    width: 400px;
+    height: 89vh;
+
+}
