@@ -36,7 +36,7 @@ const dayoftheweek = document.getElementById("dayoftheweek").innerHTML= day
 
 // To get current UTC Time
 
-const currentTime = new Date().toUTCString();
+const currentTime = new Date().getUTCMilliseconds();
 
 const currentUTCTime = document.getElementById("currenttime").innerHTML= currentTime
 
